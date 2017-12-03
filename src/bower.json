@@ -1,0 +1,24 @@
+{
+  "name": "myterm",
+  "description": "MyTerm is a simple electron application to emulate terminal app.",
+  "main": "app.js",
+  "authors": [
+    "Yekita Meena"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "terminal",
+    "eumulator",
+    "electron",
+    "terminal"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

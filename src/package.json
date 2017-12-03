@@ -1,0 +1,21 @@
+{
+  "name": "myterm",
+  "version": "0.0.1",
+  "description": "MyTerm is a simple electron application to emulate terminal app.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "terminal",
+    "eumulator",
+    "electron",
+    "terminal"
+  ],
+  "author": "Yekita Meena",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "jquery.terminal": "^1.4.3"
+  }
+}
